@@ -4,6 +4,10 @@
   background-color: $white;
   color: $dark;
   transition: all 700ms;
+
+  a {
+    color: black;
+  }
 }
 
 .dark {
@@ -31,15 +35,6 @@
     }
     i:nth-child(3) {
       color: #27C93F;
-    }
-  }
-
-
-  & > div div {
-    background-color: #dee6ee;
-    color: $dark;
-    i {
-      color: slategrey;
     }
   }
 }
