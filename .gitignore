@@ -1,4 +1,3 @@
-.idea/
 .vscode/
 build
 .DS_Store
@@ -13,3 +12,4 @@ yarn-error.log*
 .npm/
 node_modules
 yarn.lock
+/.idea/
