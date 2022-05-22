@@ -20,8 +20,8 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
+    firstName: "Lokesh",
+    lastName: "T M",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
     position: "Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self portrait in the "img" folder something else!
@@ -39,7 +39,7 @@ export const info = {
         ["https://medium.com", mediumIcon()],
         ["https://twitter.com", twitterIcon()]
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Loki. I'm a Student at BIT. I enjoy Watching Anime!",
     hobbies: [
         ["📖", "reading"], // Same as above, change the emojis to match / relate to your hobbies or interests.
         ["🎭", "theater"], // You can also remove the emojis if you'd like, I just think they look cute :P
@@ -49,23 +49,23 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            liveLink: "paytonjewell.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            sourceLink: "paytonjewell.dev", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
+            liveLink: "#", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            sourceLink: "#", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
         },
         {
             title: "Project 2",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "#",
+            sourceLink: "#",
         },
         {
             title: "Project 3",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "#",
+            sourceLink: "#",
         },
         {
             title: "Project 4",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "#",
+            sourceLink: "#",
         },
     ]
 }
